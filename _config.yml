@@ -21,7 +21,7 @@ title: "Outside the Box"
 description: "Simple and Bold"
 baseurl: # the subpath of your site, e.g. "/blog"
 url: https://hathatinggroot.github.io
-logo: /assets/images/outside_the_box.jpeg"
+logo: "/assets/images/outside_the_box.jpeg"
 date_format: "%B %-d, %Y"
 read_time: true
 words_per_minute: 200
