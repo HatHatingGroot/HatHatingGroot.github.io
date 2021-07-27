@@ -91,14 +91,18 @@ defaults:
 
 # Site Author
 author:
-  name:
-  picture:
-  email:
-  twitter:
+  name: Kwansik Yoo
+  picture: /assets/images/profile.jpg
+  email: hathatinggroot@gmail.com
+  instagram: hathatinggroot
+  twitter: hathatinggroot
   links:
-    - title:
-      url:
-      icon:
+    - title: Instagram
+      url: https://www.instagram.com/o.t.box/
+      icon: fab fa-instagram
+    - title: GitHub
+      url: https://github.com/hathatinggroot
+      icon: fab fa-github-square
 
 # Footer Links
 footer_links:
