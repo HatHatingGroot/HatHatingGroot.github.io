@@ -7,6 +7,7 @@ tags:
   - gradient_descent
   - 
 last_modified_at: 2021-08-03T00:00:00-00:00
+use_math: true
 ---
 
 
