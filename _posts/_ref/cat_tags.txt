@@ -1,0 +1,39 @@
+cat
+    - Boostcamp
+    - DL-ML
+
+
+
+tags
+    - boostcamp
+    - aitech
+    - deeplearning
+    - intro
+    - gradient
+    - sgd
+    - stochastic gradient descent
+    - momentum
+    - nesterov accelerated gradient
+    - nag
+    - adagrad
+    - adadelta
+    - rmsprop
+    - adam
+    - optimization
+    - generalization
+    - underfitting
+    - overfitting
+    - cross validation
+    - bias variance tradeoff
+    - bootstraipping
+    - bagging
+    - boosting
+    - regularization
+    - ealry stopping
+    - parameter norm penalty
+    - data argumentation
+    - noise robustness
+    - label smoothing
+    - dropout
+    - batch normalization
+    

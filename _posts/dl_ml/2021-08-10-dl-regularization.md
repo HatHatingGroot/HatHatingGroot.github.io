@@ -1,9 +1,17 @@
 ---
 title: "[DL/ML]Regularization"
 categories:
-  - 
+  - DL-ML
 tags:
-  - 
+  - deeplearning
+  - regularization
+  - ealry stopping
+  - parameter norm penalty
+  - data argumentation
+  - noise robustness
+  - label smoothing
+  - dropout
+  - batch normalization
 last_modified_at: 2021-08-10T00:00:00-00:00
 ---
 

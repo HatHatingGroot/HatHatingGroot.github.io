@@ -1,9 +1,19 @@
 ---
 title: "[DL/ML]Gradient Descent Methods"
 categories:
-  - 
+  - DL-ML
 tags:
-  - 
+  - deeplearning
+  - gradient
+  - sgd
+  - stochastic gradient descent
+  - momentum
+  - nesterov accelerated gradient
+  - nag
+  - adagrad
+  - adadelta
+  - rmsprop
+  - adam
 last_modified_at: 2021-08-10T00:00:00-00:00
 ---
 

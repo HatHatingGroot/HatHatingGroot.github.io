@@ -3,7 +3,16 @@ title: "[DL/ML]Optimization - Important Concept"
 categories:
   - DL-ML
 tags:
+  - deeplearning
   - optimization
+  - generalization
+  - underfitting
+  - overfitting
+  - cross validation
+  - bias variance tradeoff
+  - bootstraipping
+  - bagging
+  - boosting
 last_modified_at: 2021-08-10T00:00:00-00:00
 ---
 
