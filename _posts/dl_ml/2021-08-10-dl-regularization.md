@@ -16,13 +16,13 @@ Generalization을 높이기 위해 학습을 방해하는 방법이다. 다시 �
 
 
 ## Index 👀       
-  * [Early Stopping](#)
-  * [Parameter Norm Penalty](#)
-  * [Data argumentation](#)
-  * [Noise robustness](#)
-  * [Label smoothing](#)
-  * [Dropout](#)
-  * [Batch normalization](#)
+  * [Early Stopping](#early-stopping)
+  * [Parameter Norm Penalty](#parameter-norm-penalty)
+  * [Data argumentation](#data-argumentation)
+  * [Noise robustness](#noise-robustness)
+  * [Label smoothing](#label-smoothing)
+  * [Dropout](#dropout)
+  * [Batch normalization](#batch-normalization)
 
 <br/>
 
@@ -78,7 +78,9 @@ Weight Parameter의 크기(절대값)를 정규화하여 작게 만드는 것이
 ## Dropout
 <hr/>
 
-(TODO)
+weight의 일부 파라미터를 0으로 초기화 하여 특정 feature에 국한되지 않도록 한다. 
+
+
 <br><br/>
 
 

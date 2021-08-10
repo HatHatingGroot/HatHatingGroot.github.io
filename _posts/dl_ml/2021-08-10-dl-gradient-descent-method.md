@@ -22,13 +22,13 @@ Gradient Descent는 다음으로 간단히 분류할 수 있다.
 
 
 ## Index 👀       
-  * [Stochastic Gradient Descent](#why)
-  * [Momentum](#definition)
-  * [Nesterov accelerated gradient](#feature)
-  * [Adagrad](#use-cases)
-  * [Adadelta](#related)
-  * [RMSprop](#implementation)
-  * [Adam](#implementation)
+  * [Stochastic Gradient Descent](#stochastic-gradient-descent)
+  * [Momentum](#momentum)
+  * [Nesterov accelerated gradient](#nesterov-accelerated-gradientnag)
+  * [Adagrad](#adagrad)
+  * [Adadelta](#adadelta)
+  * [RMSprop](#rmsprop)
+  * [Adam](#adam)
 
 <br/>
 
@@ -153,15 +153,3 @@ Adaptive Moment Estimation
 
 <br><br/>
 
-
-## Related
-<hr/>
-
-<br><br/>
-
-
-## Implementation
-<hr/>
-```python
-print('hello world')
-```

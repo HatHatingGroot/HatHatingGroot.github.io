@@ -4,7 +4,7 @@ categories:
   - DL-ML
 tags:
   - optimization
-last_modified_at: 2021-08-03T00:00:00-00:00
+last_modified_at: 2021-08-10T00:00:00-00:00
 ---
 
 
