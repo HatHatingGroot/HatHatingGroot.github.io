@@ -4,8 +4,8 @@
 
 .page-wrapper {
   margin: 0 auto;
-  padding-left: 1em;
-  padding-right: 1em;
+  Padding-left: 1em;
+  Padding-right: 1em;
   max-width: $main-sidebar-max-width;
 }
 
@@ -43,7 +43,7 @@
   bottom: 0;
   right: 0;
   margin: 0 auto;
-  padding: 0.25em 0.5em;
+  Padding: 0.25em 0.5em;
   color: #fff;
   font-size: 0.75rem;
   background: #000;
@@ -54,7 +54,7 @@
 
   > * {
     margin: 0;
-    padding: 0;
+    Padding: 0;
   }
 
   a {
@@ -84,11 +84,11 @@
 
   .read-time + .page-date::before {
     content: "\2022";
-    padding: 0 0.5em;
+    Padding: 0 0.5em;
 
     @include breakpoint($large) {
       content: "";
-      padding: 0;
+      Padding: 0;
     }
   }
 }
@@ -110,7 +110,7 @@
 
 .page-taxonomies-title {
   display: inline;
-  padding-right: 0.5em;
+  Padding-right: 0.5em;
   font-size: 1rem;
   font-weight: normal;
   text-transform: uppercase;
@@ -118,7 +118,7 @@
   @include breakpoint($large) {
     display: inline-block;
     margin: 1.5em 0 0.5em;
-    padding: 0;
+    Padding: 0;
     font-size: 0.75rem;
     font-weight: normal;
     text-transform: uppercase;
@@ -128,7 +128,7 @@
 .page-taxonomies {
   display: inline;
   margin-right: 1em;
-  padding: 0;
+  Padding: 0;
   list-style: none;
 
   @include breakpoint($large) {
@@ -185,13 +185,13 @@
 
 .page-pagination-label {
   margin: 0;
-  padding: 0;
+  Padding: 0;
   font-size: 1rem;
 }
 
 .page-pagination-title {
   margin: 0;
-  padding: 0;
+  Padding: 0;
   font-family: $meta-font-family;
   font-size: 0.9rem;
   font-style: italic;

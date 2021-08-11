@@ -25,7 +25,7 @@
 .author-links {
   display: none;
   margin: 0 0 1.5em;
-  padding: 0;
+  Padding: 0;
   list-style: none;
 
   @include breakpoint($large) {
@@ -35,10 +35,10 @@
 
 .author-link {
   display: inline;
-  padding-right: 0.5em;
+  Padding-right: 0.5em;
 
   @include breakpoint($large) {
-    padding: 0.25em;
+    Padding: 0.25em;
   }
 
   a {

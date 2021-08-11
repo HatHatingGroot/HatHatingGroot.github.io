@@ -3,16 +3,16 @@ title: "[DL/ML]Optimization - Important Concept"
 categories:
   - DL-ML
 tags:
-  - deeplearning
-  - optimization
-  - generalization
-  - underfitting
-  - overfitting
-  - cross validation
-  - bias variance tradeoff
-  - bootstraipping
-  - bagging
-  - boosting
+  - DeepLearning
+  - Optimization
+  - Generalization
+  - Underfitting
+  - Overfitting
+  - CrossValidation
+  - BiasVarianceTradeoff
+  - Bootstraipping
+  - Bagging
+  - Boosting
 last_modified_at: 2021-08-10T00:00:00-00:00
 ---
 
@@ -27,12 +27,12 @@ last_modified_at: 2021-08-10T00:00:00-00:00
 
 
 ## Index 👀       
-  * [Generalization](#generalization)
-  * [fitting(Under|Over)](#underfitting--overfitting)
+  * [Generalization](#Generalization)
+  * [fitting(Under|Over)](#Underfitting--Overfitting)
   * [Cross validation](#cross-validation)
   * [Bias-variance tradeoff](#bias-variance-tradeoff)
   * [BootStrapping](#bootstrapping)
-  * [Bagging & Boosting](#bagging--boosting)
+  * [Bagging & Boosting](#Bagging--Boosting)
 
 <br><br/>
 

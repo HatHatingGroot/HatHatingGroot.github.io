@@ -48,7 +48,7 @@ section {
 }
 
 /**
- * Remove margin padding.
+ * Remove margin Padding.
  *
  */
 
@@ -216,14 +216,14 @@ small {
 }
 
 /**
- * Change the margin and padding and add a line rule on the left-side in all
+ * Change the margin and Padding and add a line rule on the left-side in all
  * browsers (opinionated).
  */
 
 blockquote {
   margin-right: 0;
   margin-left: 0;
-  padding: 2em 3em;
+  Padding: 2em 3em;
   border-left: solid 0.5em;
 
   *:last-child {
@@ -355,14 +355,14 @@ html [type="button"], /* 1 */
 }
 
 /**
- * Remove the inner border and padding in Firefox.
+ * Remove the inner border and Padding in Firefox.
  */
 
 button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
 [type="submit"]::-moz-focus-inner {
-  padding: 0;
+  Padding: 0;
   border-style: none;
 }
 
@@ -378,26 +378,26 @@ button:-moz-focusring,
 }
 
 /**
- * Change the border, margin, and padding in all browsers (opinionated).
+ * Change the border, margin, and Padding in all browsers (opinionated).
  */
 
 fieldset {
   margin: 0 2px;
-  padding: 0.35em 0.625em 0.75em;
+  Padding: 0.35em 0.625em 0.75em;
   border: 1px solid #c0c0c0;
 }
 
 /**
  * 1. Correct the text wrapping in Edge and IE.
  * 2. Correct the color inheritance from `fieldset` elements in IE.
- * 3. Remove the padding so developers are not caught out when they zero out
+ * 3. Remove the Padding so developers are not caught out when they zero out
  *    `fieldset` elements in all browsers.
  */
 
 legend {
   display: table; /* 1 */
   max-width: 100%; /* 1 */
-  padding: 0; /* 3 */
+  Padding: 0; /* 3 */
   color: inherit; /* 2 */
   white-space: normal; /* 1 */
   box-sizing: border-box; /* 1 */
@@ -423,12 +423,12 @@ textarea {
 
 /**
  * 1. Add the correct box sizing in IE 10-.
- * 2. Remove the padding in IE 10-.
+ * 2. Remove the Padding in IE 10-.
  */
 
 [type="checkbox"],
 [type="radio"] {
-  padding: 0; /* 2 */
+  Padding: 0; /* 2 */
   box-sizing: border-box; /* 1 */
 }
 
@@ -452,7 +452,7 @@ textarea {
 }
 
 /**
- * Remove the inner padding and cancel buttons in Chrome and Safari on macOS.
+ * Remove the inner Padding and cancel buttons in Chrome and Safari on macOS.
  */
 
 [type="search"]::-webkit-search-cancel-button,

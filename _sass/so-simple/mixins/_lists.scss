@@ -2,8 +2,8 @@
    List Mixins
    ========================================================================== */
 
-// Unstyled keeps list items block level, just removes default browser padding and list-style
+// Unstyled keeps list items block level, just removes default browser Padding and list-style
 @mixin list-unstyled {
-  padding-left: 0;
+  Padding-left: 0;
   list-style: none;
 }

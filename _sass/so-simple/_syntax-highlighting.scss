@@ -6,7 +6,7 @@
 
 code.highlighter-rouge {
   margin: 0;
-  padding: 0.2em 0.4em;
+  Padding: 0.2em 0.4em;
   font-size: 85%;
   border-radius: 3px;
 }
@@ -23,7 +23,7 @@ figure.highlight {
   > pre,
   pre.highlight {
     margin: 0;
-    padding: 1em;
+    Padding: 1em;
   }
 }
 
@@ -33,13 +33,13 @@ figure.highlight {
   border: 0;
 
   td {
-    padding: 0;
+    Padding: 0;
     width: calc(100% - 1em);
     border: 0;
 
     /* line numbers*/
     &.gutter {
-      padding-right: 1em;
+      Padding-right: 1em;
       width: 1em;
       border-right: 1px solid;
       text-align: right;
@@ -47,7 +47,7 @@ figure.highlight {
 
     /* code */
     &.code {
-      padding-left: 1em;
+      Padding-left: 1em;
     }
   }
 

@@ -60,7 +60,7 @@ Jekyll also has built-in support for syntax highlighting of code snippets using 
 {% raw %}{% highlight scss %}
 .highlight {
   margin: 0;
-  padding: 1em;
+  Padding: 1em;
   font-family: $monospace;
   font-size: $type-size-7;
   line-height: 1.8;
@@ -73,7 +73,7 @@ And the output will look like this:
 {% highlight scss %}
 .highlight {
   margin: 0;
-  padding: 1em;
+  Padding: 1em;
   font-family: $monospace;
   font-size: $type-size-7;
   line-height: 1.8;

@@ -3,15 +3,15 @@ title: "[DL/ML]Regularization"
 categories:
   - DL-ML
 tags:
-  - deeplearning
-  - regularization
-  - ealry stopping
-  - parameter norm penalty
-  - data argumentation
-  - noise robustness
-  - label smoothing
-  - dropout
-  - batch normalization
+  - DeepLearning
+  - Regularization
+  - EalryStopping
+  - ParameterNormPenalty
+  - DataArgumentation
+  - NoiseRobustness
+  - LabelSmoothing
+  - Dropout
+  - BatchNormalization
 last_modified_at: 2021-08-10T00:00:00-00:00
 ---
 
@@ -29,7 +29,7 @@ Generalization을 높이기 위해 학습을 방해하는 방법이다. 다시 �
   * [Data argumentation](#data-argumentation)
   * [Noise robustness](#noise-robustness)
   * [Label smoothing](#label-smoothing)
-  * [Dropout](#dropout)
+  * [Dropout](#Dropout)
   * [Batch normalization](#batch-normalization)
 
 <br/>

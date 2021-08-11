@@ -5,35 +5,47 @@ cat
 
 
 tags
-    - boostcamp
+    - Boostcamp
     - aitech
-    - deeplearning
-    - intro
-    - gradient
-    - sgd
-    - stochastic gradient descent
-    - momentum
-    - nesterov accelerated gradient
-    - nag
-    - adagrad
-    - adadelta
-    - rmsprop
-    - adam
-    - optimization
-    - generalization
-    - underfitting
-    - overfitting
-    - cross validation
-    - bias variance tradeoff
-    - bootstraipping
-    - bagging
-    - boosting
-    - regularization
-    - ealry stopping
-    - parameter norm penalty
-    - data argumentation
-    - noise robustness
-    - label smoothing
-    - dropout
-    - batch normalization
+    - DeepLearning
+    - Intro
+    - Gradient
+    - SGD
+    - StochasticGradientDescent
+    - Momentum
+    - NesterovAcceleratedGradient
+    - NAG
+    - Adagrad
+    - Adadelta
+    - RMSprop
+    - Adam
+    - Optimization
+    - Generalization
+    - Underfitting
+    - Overfitting
+    - CrossValidation
+    - BiasVarianceTradeoff
+    - Bootstraipping
+    - Bagging
+    - Boosting
+    - Regularization
+    - EalryStopping
+    - ParameterNormPenalty
+    - DataArgumentation
+    - NoiseRobustness
+    - LabelSmoothing
+    - Dropout
+    - BatchNormalization
+    - CNN
+    - Convolution
+    - ConvolutionNeuralNetwork
+    - Stride
+    - Padding
+    - 1x1Convolution
+    - ILSVRC
+    - AlexNet
+    - VGGNet
+    - GoogleNet
+    - ResNet
+    - DenseNet
     
