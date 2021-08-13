@@ -38,13 +38,24 @@ CNN 기본 개념을 바탕으로 최근 대회에서 우수한 성적을 거뒀
 ## AlexNet  
 <hr/>
 
+[Paper 📃](https://paperswithcode.com/method/alexnet)
 
+![](assset/../../assets/images/alexnet.png)
+
+* ReLU activation function
+* 2 GPUs
+* Data argumentation
+* Dropout
+* LRN(Local Response Normalization)
+* 11x11 kernel
+* 5 convolution layers - 3 dense layers
 
 <br></br>
 
 
 ## VGGNet  
 <hr/>
+
 
 
 
