@@ -50,7 +50,7 @@ CNN 기본 개념을 바탕으로 최근 대회에서 우수한 성적을 거뒀
 * 11x11 kernel
 * 5 convolution layers - 3 dense layers
 
-<br></br>
+<br><br/>
 
 
 ## VGGNet  
@@ -59,7 +59,7 @@ CNN 기본 개념을 바탕으로 최근 대회에서 우수한 성적을 거뒀
 
 
 
-<br></br>
+<br><br/>
 
 
 ## GoogleNet  
@@ -67,7 +67,7 @@ CNN 기본 개념을 바탕으로 최근 대회에서 우수한 성적을 거뒀
 
 
 
-<br></br>
+<br><br/>
 
 
 ## ResNet  
@@ -75,12 +75,12 @@ CNN 기본 개념을 바탕으로 최근 대회에서 우수한 성적을 거뒀
 
 
 
-<br></br>
+<br><br/>
 
 ## DenseNet  
 <hr/>
 
 
 
-<br></br>
+<br><br/>
 

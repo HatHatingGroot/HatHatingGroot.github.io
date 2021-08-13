@@ -42,7 +42,7 @@ last_modified_at: 2021-08-10T00:00:00-00:00
 Trainning Error와 Test Error의 차이를 나타내는 것으로 이 Gap을 줄이는 것을 목표로 가지게 된다.   
 훈련 데이터를 통해 얻은 Weight가 실제 데이터(test data)에서도 얼마나 잘 적용되는지 나타낸다.   
 
-<br></br>
+<br><br/>
 
    
 
@@ -52,7 +52,7 @@ __Underfitting__  이란 학습 데이터에 맞는 파라미터가 느슨하게
 __Overfitting__ 이란 학습 데이터에 과도하게 최적화된 것으로서 앞서 언급한 Generalization gap을 증가시킬 수 있다.    
 
   
-<br></br>
+<br><br/>
 
 ## Cross-validation
 <hr/>
@@ -62,7 +62,7 @@ K-fold Cross-validation이라고 부르기도 한다.
 예를 들어 100개의 데이터 셋을 10개의 fold로 나누고 모델A에 대해서는 1~9 fold 데이터셋을 training set으로 활용하고 10 fold 데이터셋을 validation set으로 활용, 모델 B, C에 대해서 각각 다른 validation set을 활용해 각각의 성능을 비교하여 적절한 모델을 택하는 방식이다.    
 주로 [hyperparameter](https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/)(learing rate...)와 같은 모델의 특징을 평가하고 비교하기 위해 사용한다.    
 
-<br></br>
+<br><br/>
 
 ## Bias-Variance tradeoff
 <hr/>
@@ -71,7 +71,7 @@ K-fold Cross-validation이라고 부르기도 한다.
 Cost = Bias^2 + Variance + Noise   
 > $\begin{aligned} \mathbb{E}\left[(t-\hat{f})^{2}\right] &=\mathbb{E}\left[(t-f+f-\hat{f})^{2}\right] \\ &=\cdots \\ &=\mathbb{E}\left[\left(f-\mathbb{E}[\hat{f}]^{2}\right)^{2}\right]+\mathbb{E}\left[(\mathbb{E}[\hat{f}]-\hat{f})^{2}\right]+\mathbb{E}[\epsilon] \end{aligned}$
 
-<br></br>
+<br><br/>
 
 
 
