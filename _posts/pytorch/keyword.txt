@@ -1,0 +1,28 @@
+1. dynamic computation graph (vs Static graph)
+    define and run  
+    define by run
+2. Autograd
+3. numpy
+    contiguous (view, reshape)
+4. tensor handling
+5. torch와 numpy의 행렬곱 차이
+6. mm, matmul의 차이
+7. dim 이해하기(axis)
+8. Autograd
+    backward
+    step
+9. 프로젝트 템플릿 분석
+10. Dataset, DataLoader
+    데이터로 메모리에 로드 되는 시점
+    전처리(시점, 병렬처리 등)
+11. 학습의 교환
+    model save
+    transfer learning
+    freezing
+12. Monitoring
+    Tensor board
+    WandB
+13. troublue shooting
+14. Ray
+    HParameter tuning
+15. Multi GPU
